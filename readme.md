@@ -17,7 +17,7 @@
 <br>
 
 <p align='center'>
-<a href='https://lazzytim.github.io/lazzytim/me'><strong>[ lazzytim.dev ]<strong></a>
+<a href='https://lazzytim.github.io/lazzytim/'><strong>[ lazzytim.dev ]<strong></a>
 <img width='12px'\>
 <a href='https://github.com/lazzytim/thunder-rpc'><strong>[ ThunderRPC ]<strong></a>
 <img width='12px'\>
