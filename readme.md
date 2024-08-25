@@ -19,7 +19,7 @@
 <p align='center'>
 <a href='https://lazzytim.github.io/lazzytim/'><strong>[ lazzytim.dev ]<strong></a>
 <img width='12px'\>
-<a href='https://github.com/lazzytim/thunder-rpc'><strong>[ ThunderRPC ]<strong></a>
+<a href='https://github.com/lazzytim?tab=repositories'><strong>[ Repositories ]<strong></a>
 <img width='12px'\>
-<a href='mailto:timothy.deletrez@proton.me'><strong>[ Send an email ]<strong></a>
+<a href='mailto:deletrez.timothy@gmail.com'><strong>[ Reach me ]<strong></a>
 </p>
