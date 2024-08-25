@@ -19,7 +19,7 @@
 <p align='center'>
 <a href='https://lazzytim.github.io/lazzytim/'><strong>[ lazzytim.dev ]<strong></a>
 <img width='12px'\>
-<a href='https://github.com/lazzytim?tab=repositories'><strong>[ Repositories ]<strong></a>
+<a href='https://github.com/lazzytim?tab=repositories'><strong>[ repositories ]<strong></a>
 <img width='12px'\>
-<a href='mailto:deletrez.timothy@gmail.com'><strong>[ Reach me ]<strong></a>
+<a href='mailto:deletrez.timothy@gmail.com'><strong>[ reach me ]<strong></a>
 </p>
