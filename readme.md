@@ -1,6 +1,5 @@
 <h1 align='center'>👋 Hi I'm Timothy!</h1>
 <h5 align='center'>A high school student studying computer science<br>and electronics who learns to be less stupid!</h5>
-<h4 align='center'><i>You will die but C will live.</i></h4>
 
 ###
 
