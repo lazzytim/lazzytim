@@ -13,8 +13,8 @@ Hi! I am Timothy. A student based in Liege, BE who is learning electronics and c
 <details>
 <summary>Projects</summary>
 <br>
-<li><a href="./plume">ThunderRPC</a></li>
-<li><a href="./plume">Plume for Windows</a></li>
+<li><a href="https://github.com/lazzytim/thunder-rpc">ThunderRPC</a></li>
+<li><a href="https://github.com/lazzytim/plume">Plume for Windows</a></li>
 </details>
 
 <a href="mailto:deletrez.timothy@gmail.com">Send me a mail.</a><br>
