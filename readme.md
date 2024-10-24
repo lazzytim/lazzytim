@@ -18,4 +18,4 @@ Hi! I am Timothy. A student based in Liege, BE who is learning electronics and c
 </details>
 
 <a href="mailto:deletrez.timothy@gmail.com">Send me a mail.</a><br>
-<a href="lazzytim.github.io/lazzytim">lazzytim.dev</a>
+<a href="https://lazzytim.github.io/lazzytim">lazzytim.dev</a>
