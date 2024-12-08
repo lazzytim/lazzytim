@@ -1,4 +1,6 @@
-<img align='center' src='https://lazzytim.github.io/images/logo/128.png'>
+<p align='center'>
+  <img src='https://lazzytim.github.io/images/logo/128.png'>
+</p>
 <h1 align='center'>Timothy Deletrez</h1>
 <p align='center'>
   Hi! I'm Timothy aka. Lazzytim, Your now on my Github profile!<br><br>Honestly you won't find much here, if you want to learn more about me,<br>i recommend you to go on my website at <a href='https://lazzytim.github.io'>lazzytim.github.io</a>
