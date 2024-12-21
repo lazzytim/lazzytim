@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://lazzytim.github.io/images/logo/128.png'>
+  <img src='https://lazzytim.github.io/assets/icons/64orange.png'>
 </p>
 <h1 align='center'>Timothy Deletrez</h1>
 <p align='center'>
